@@ -1,0 +1,5 @@
+# Ignorar todos los archivos .exe en cualquier carpeta o subcarpeta
+*.exe
+
+# Ignorar todos los archivos .class en cualquier carpeta o subcarpeta
+*.class
