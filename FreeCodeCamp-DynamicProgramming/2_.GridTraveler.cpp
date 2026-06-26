@@ -20,7 +20,7 @@ int main(){
     cout << gridTraveler(2,3) << "\n";; //3
     cout << gridTraveler(3,2) << "\n";; //3
     cout << gridTraveler(3,3) << "\n";; //6
-    cout << gridTraveler(18,18) << "\n";; //2333606220
+    cout << gridTraveler(18,18) << "\n"; //2333606220
 
     return 0;
 }
